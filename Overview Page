@@ -1,0 +1,35 @@
+# Overview 
+# Dashboard Visualization Breakthrough!
+
+Started transforming raw production data into actionable insights. The visualizations tell the story of oil & gas operations!
+
+'Overview' Dashboard Features Built:
+
+✅ Real-time production KPI scorecards.
+
+✅ Interactive time series for oil/gas/water production over the years.
+
+✅ Top 10 Operators are shown using Funnel. 
+
+✅ Water-to-Oil Ratio (WOR) analysis reveals well performance issues. 
+
+✅ Production decline analysis
+
+✅ Operator performance benchmarking
+
+
+
+Visualization Highlights:
+
+📈 Production trends showing seasonal patterns
+
+📈 While most wells maintain healthy ratios under 2.0, several wells like Steuben_JASPER_WYCKOFF (602.00) and Steuben_Unknown_Unknown (16.06) show concerning water breakthrough requiring immediate attention."
+
+Geographic clustering of high-performing wells.
+
+📈 Pennzoil Products Co. is the top producer, with a 21.82% difference from Quaker State Corp. 
+
+
+🔗 GitHub Update: Complete dashboard with screenshots and user guide! 
+
+📱 Check out the mobile-responsive design: https://github.com/Monisa-Hasnain/oil-gas-production-analytics/blob/Dashboard/Overview.jpg
