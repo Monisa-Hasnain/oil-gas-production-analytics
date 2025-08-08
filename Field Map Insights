@@ -1,0 +1,32 @@
+# Field Map Dashboard Insights
+1. High Concentration of Oil Production
+A small number of fields and sites dominate oil output.
+
+The Top 20 Oil Producing Fields and Top 20 Sites account for a significant share of total production, indicating uneven distribution across assets.
+
+2. Operational Activity Breakdown
+The LocationKey Table reveals:
+
+A large number of inactive wells, suggesting potential for reactivation or decommissioning.
+
+Disposal and injection wells are present in multiple locations, indicating active water management strategies.
+
+3. Environmental Efficiency Varies by Location
+The Water-to-Oil Ratio Pie Chart shows:
+
+Some locations (e.g., Chautauqua_DUNKIRK_LAKESHORE) have high water-to-oil ratios, which may signal inefficient extraction or mature reservoirs.
+
+Other locations show more favorable ratios, pointing to better resource utilization.
+
+4. Gas Production is Secondary
+Visual emphasis and volume data suggest oil is the primary focus, with gas playing a supporting role.
+
+Orange bars (gas) are generally shorter, reinforcing this insight.
+
+5. Asset Distribution and Potential Optimization
+The spread of active vs. inactive wells across locations hints at opportunities for optimization:
+
+Reactivating high-potential inactive wells.
+https://www.linkedin.com/feed/update/urn:li:activity:7359657362820915200?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGO2e4B-INaSnY7C01Z8rBELQGdxx4ZySM
+
+Redirecting resources from low-performing sites.
